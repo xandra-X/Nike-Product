@@ -2,6 +2,8 @@
 
 A sleek, animated **Nike product card UI** built with HTML, CSS, and JavaScript. It includes dynamic color switching, product transitions, and a clean design inspired by real-world product displays.
 
+![Nike Shoe Card UI](nike.png)
+
 ---
 
 ## 🧩 Features
